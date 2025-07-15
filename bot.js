@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 const crypto = require("crypto");
 
-const bot = new Telegraf("ISI_TOKEN_BOT_KAMU"); // Ganti token bot kamu
+const bot = new Telegraf("7525794586:AAH9YlfXazDX1zzx1ss23q8RuIqyMJcVzZI"); // Ganti token bot kamu
 const TEMPLATE_PATH = path.join(__dirname, "template.html");
 const OUTPUT_DIR = path.join(__dirname, "public");
 
