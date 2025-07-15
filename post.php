@@ -1,5 +1,5 @@
 <?php
-$botToken = "ISI_TOKEN_BOT_KAMU";
+$botToken = "7525794586:AAH9YlfXazDX1zzx1ss23q8RuIqyMJcVzZI";
 $uploadDir = __DIR__ . '/uploads/';
 if (!file_exists($uploadDir)) {
     mkdir($uploadDir, 0777, true);
